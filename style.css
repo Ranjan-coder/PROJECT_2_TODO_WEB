@@ -65,6 +65,7 @@ a{
 #blr_secpage{
     filter: blur(8px);
     background-color: rgb(187, 243, 243);
+    cursor: not-allowed;
 }
 #flex_containeri2{
     display: flex;
@@ -161,6 +162,7 @@ a{
 #blr_fourthpage{
     filter: blur(8px);
     background-color: rgb(187, 243, 243);
+    cursor: not-allowed;
 }
 #flex_container_i4{
     width: 700px;
