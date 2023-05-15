@@ -48,6 +48,9 @@ a{
     background-color: #fff;
     margin-bottom: 20px;
 }
+.flex_item:hover{
+    box-shadow: 0px 0px 3px 3px rgb(117, 115, 115);
+}
 .heading{
     padding: 3px 20px;
     color: #00a5ec;
